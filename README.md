@@ -9,4 +9,4 @@ Entrevistas e Reflexões: Descubra entrevistas exclusivas, ensaios e reflexões 
 
 Recursos Adicionais: Links para outros recursos, como vídeos, documentários ou artigos que enriquecem a compreensão da vida e obra de Clarice Lispector.
 
-Este repositório é uma homenagem à grandiosidade de Clarice Lispector e destina-se a estudantes, pesquisadores, amantes da literatura e a todos aqueles que desejam mergulhar na rica tapeçaria de uma das maiores escritoras brasileiras.
+Este repositório é uma homenagem à grandiosidade de Clarice Lispector e destina-se a amantes da literatura e a todos aqueles que desejam mergulhar na rica tapeçaria de uma das maiores escritoras brasileiras.
