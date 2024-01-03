@@ -1,4 +1,4 @@
-# Clarice-Lispector-
+# Clarice Lispector
 Biografia Completa: Explore uma narrativa detalhada da vida de Clarice Lispector, desde sua infância na Ucrânia até os momentos decisivos em sua jornada literária no Brasil. Descubra os eventos que moldaram sua perspectiva única e influenciaram suas obras imortais.
 
 Momentos Significativos: Destaque de eventos e marcos cruciais na vida de Clarice Lispector, incluindo seus anos no Recife, sua mudança para o Rio de Janeiro, sua carreira como jornalista e seus laços com outros grandes nomes da literatura brasileira.
